@@ -1,0 +1,31 @@
+Company: CODTECH IT SOLUTIONS
+Name: YEJARLA YASWANTH KUMAR
+Domain: Python Programming
+Duration: 25th dec to 25th jan
+Intern ID: CT08EAL
+
+TASK; AI CHATBOT WITH NLP
+
+Description: A simple AI chatbot built using Natural Language Processing (NLP) libraries like NLTK and spaCy. The chatbot is capable of answering user queries related to greetings and farewells.
+
+INSTALLATIONS:
+* NLTK
+* SPACY
+
+FUNCTIONALITIES: 
+* Intent Recognition:
+      Uses spaCy to process user input and identify intents (greeting, farewell, or default).
+* Response Generation:
+      Based on recognized intent, the chatbot generates a random response from predefined lists.
+
+LIBRARY IMPORTS:
+* Import necessary NLP libraries: nltk, spacy, and random.
+
+RUN THE CHATBOT:
+if __name__ == "__main__":
+    chatbot()
+
+FUTURE IMPROVEMENTS:
+* Expand the chatbot's capabilities by adding more intents and responses.
+* Improve NLP logic for better intent recognition.
+* Integrate with a web or mobile interface for wider accessibility.
